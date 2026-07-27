@@ -1,4 +1,4 @@
-package Array_Array_List;
+package Arrays;
 /*import java.lang.reflect.Array;
 import java.util.*;
 public class Code_1 {

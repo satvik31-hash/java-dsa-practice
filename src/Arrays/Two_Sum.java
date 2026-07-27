@@ -1,4 +1,4 @@
-package Array_Array_List;
+package Arrays;
 
 public class Two_Sum {
     static void main() {

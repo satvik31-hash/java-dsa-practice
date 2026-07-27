@@ -1,4 +1,4 @@
-package Array_Array_List;
+package Arrays;
 import java.util.Scanner;
 public class Second_Largest_Element {
     static void main() {

@@ -1,6 +1,4 @@
-package Array_Array_List;
-
-import java.util.Arrays;
+package Arrays;
 
 public class Test {
     static void main() {

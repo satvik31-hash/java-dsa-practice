@@ -1,7 +1,7 @@
 /*You are given an Array arr[] of size n-1 with n distinct elements integers in the range from 1 to n(inclusive), This
 array represents a permutation of the integers from 1 to n with one missing element. Your task is to identify and return
 the missing element*/
-package Array_Array_List;
+package Arrays;
 import java.util.Scanner;
 public class Missing_Element {
     static void main() {
